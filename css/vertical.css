@@ -1,0 +1,79 @@
+body {
+    width: 50%;
+    height: 100%;
+    background-image: url('../img/vertical.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: fixed;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#cuerpo {
+    width: 100%;
+    text-align: center;
+}
+
+#izquierda {
+    width: 25%;
+    float: left;
+    margin: 3% 0 0 5%;
+}
+
+#izquierda a {
+    font-size: 0.8em;
+    text-align: center;
+    color: grey;
+    text-decoration: none;
+    display: block;
+    padding: 3%;
+    border: solid 1px black;
+}
+
+#centro {
+    width: 45%;
+    float: left;
+    text-align: center;
+}
+
+#centro img {
+    width: 55%;
+    height: 20%;
+    align: center;
+}
+
+#derecha {
+    width: 25%;
+    float: right;
+    margin: 3% 0% 0 0;
+}
+
+#derecha a {
+    font-size: 0.8em;
+    text-align: center;
+    color: red;
+    display: block;
+    padding: 3%;
+    border: solid 1px black;
+}
+
+#abajo {
+    width: 50%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
+#abajo img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#abajo a {
+    width: 10%;
+    color: white;
+    text-decoration: none;
+    text-align: right;
+    display: none;
+}
