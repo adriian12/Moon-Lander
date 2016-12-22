@@ -6,3 +6,7 @@ Proyecto Lunar Lander para la asignatura de Lenguaje de marcas, todo el código 
 ## Fuentes
 
 Página consultada sobre recursos de programación: www.w3schools.com
+
+##Diseño
+
+Todas las imágenes han sido diseñadas y creadas prácticfamente desde cero utilizando el programa GIMP. Y comprimidas por http://compresspng.com/es/ para pesar menos.
